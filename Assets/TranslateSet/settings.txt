@@ -1,2 +1,0 @@
-id : unity_msg_translate
-secret : b0AWFfeMIS6NpR95wI0bnirRbSuOxX7l74SfJf+7wJ0=
